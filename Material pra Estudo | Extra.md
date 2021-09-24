@@ -1,7 +1,10 @@
 Pessoal aqui vou postar um material extra, como livros, vídeo ...
 Caso queiram compartilhar fiquem a vontade.
 
-
+Podcast
+-
+[Kubicast](https://getup.io/kubicast)
+- [#74 Linux > Docker > Kubernetes](https://blog.getupcloud.com/kubicast-74-bfdd705cdb51)
 
 Livros
 -

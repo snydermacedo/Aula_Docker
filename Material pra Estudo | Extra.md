@@ -8,6 +8,8 @@ Podcast
 
 [Containers e Docker – Hipsters #75](https://hipsters.tech/containers-e-docker-hipsters-75/)
 
+[Kubernetes – Hipsters #177](https://hipsters.tech/kubernetes-hipsters-177/)
+
 Livros
 -
 [Guia Rápido: Docker e Docker Compose na Prática](https://leanpub.com/docker-e-docker-compose-na-pratica)

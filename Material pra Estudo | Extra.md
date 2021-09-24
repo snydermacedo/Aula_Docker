@@ -1,6 +1,10 @@
 Pessoal aqui vou postar um material extra, como livros, vídeo ...
 Caso queiram compartilhar fiquem a vontade.
 
+YouTube
+-
+[Linux Tips](https://youtube.com/c/LinuxTips)
+
 Podcast
 -
 [Kubicast](https://getup.io/kubicast)

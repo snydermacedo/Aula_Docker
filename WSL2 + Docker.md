@@ -6,4 +6,4 @@ Abaixo vou deixar uns tutoriais:
 
 [Link 02](https://youtu.be/wpdcGgRY5kk)
 
-[Link 03]
+[Link 03](https://youtu.be/05YN8F8ajBc)

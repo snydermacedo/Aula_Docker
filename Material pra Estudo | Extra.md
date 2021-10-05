@@ -3,6 +3,8 @@ Caso queiram compartilhar fiquem a vontade.
 
 YouTube
 -
+[Containers // Dicionário do Programador](https://youtu.be/-pUZBovqRcU)
+
 [Linux Tips](https://youtube.com/c/LinuxTips)
 
 [Caio Delgado](https://youtube.com/c/CaioDelgadoNew)

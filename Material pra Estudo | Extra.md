@@ -5,6 +5,10 @@ YouTube
 -
 [Linux Tips](https://youtube.com/c/LinuxTips)
 
+[Caio Delgado](https://youtube.com/c/CaioDelgadoNew)
+
+[Docker: nivelando conhecimento](https://youtu.be/hCMcQfGb4cA)
+
 Podcast
 -
 [Kubicast](https://getup.io/kubicast)

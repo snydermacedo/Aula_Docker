@@ -1,5 +1,8 @@
+Material pra Estudo
+-
 Pessoal aqui vou postar um material extra, como livros, vídeo ...
-Caso queiram compartilhar fiquem a vontade.
+
+Caso queiram contribuir, fiquem a vontade 😁.
 
 YouTube
 -

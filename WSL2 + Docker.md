@@ -4,6 +4,6 @@ Abaixo vou deixar uns tutoriais:
 
 [Link 01](https://pureinfotech.com/install-windows-subsystem-linux-2-windows-10/)
 
-[Link 02]
+[Link 02](https://youtu.be/wpdcGgRY5kk)
 
 [Link 03]

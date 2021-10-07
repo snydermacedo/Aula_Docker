@@ -6,6 +6,8 @@ Caso queiram contribuir, fiquem a vontade 😁.
 
 YouTube
 -
+[O MELHOR sistema operacional para programação com Fabio Akita](https://youtu.be/kkbFqCNgFlE)
+
 [Containers // Dicionário do Programador](https://youtu.be/-pUZBovqRcU)
 
 [Linux Tips](https://youtube.com/c/LinuxTips)

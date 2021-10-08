@@ -32,3 +32,11 @@ Livros
 [Docker para desenvolvedores](https://leanpub.com/dockerparadesenvolvedores)
 
 [Docker - Do básico à Certificação Docker DCA](https://leanpub.com/dockerdca)
+
+Music - Programming | Coding | Hacking
+-
+[Programming / Coding / Hacking music vol.16 (CONNECTION LOST)](https://youtu.be/l9nh1l8ZIJQ)
+
+[Música produtiva para programadores, criadores, designers - The Night Code](https://youtu.be/4pcNRDx6KrE)
+
+[Hades: Original Soundtrack - Full Album](https://youtu.be/3GRKJ87S5cI)

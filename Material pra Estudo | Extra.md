@@ -4,7 +4,7 @@ Pessoal aqui vou postar um material extra, como livros, vídeo ...
 
 Caso queiram contribuir, fiquem a vontade 😁.
 
-YouTube
+📺 YouTube
 -
 [O MELHOR sistema operacional para programação com Fabio Akita](https://youtu.be/kkbFqCNgFlE) | Pessoal sei que não é o foco mas, explicação do Akita é perfeita.
 
@@ -16,7 +16,7 @@ YouTube
 
 [Docker: nivelando conhecimento](https://youtu.be/hCMcQfGb4cA)
 
-Podcast
+🎙️ Podcast
 -
 [Kubicast](https://getup.io/kubicast)
 - [#74 Linux > Docker > Kubernetes](https://blog.getupcloud.com/kubicast-74-bfdd705cdb51)
@@ -25,7 +25,7 @@ Podcast
 
 [Kubernetes – Hipsters #177](https://hipsters.tech/kubernetes-hipsters-177/)
 
-Livros
+📚 Livros
 -
 [Guia Rápido: Docker e Docker Compose na Prática](https://leanpub.com/docker-e-docker-compose-na-pratica)
 
@@ -33,7 +33,7 @@ Livros
 
 [Docker - Do básico à Certificação Docker DCA](https://leanpub.com/dockerdca)
 
-Music - Programming | Coding | Hacking
+🎧 Music - Programming | Coding | Hacking
 -
 [Programming / Coding / Hacking music vol.16 (CONNECTION LOST)](https://youtu.be/l9nh1l8ZIJQ)
 

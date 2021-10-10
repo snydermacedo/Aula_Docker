@@ -33,6 +33,8 @@ Caso queiram contribuir, fiquem a vontade 😁.
 
 [Docker - Do básico à Certificação Docker DCA](https://leanpub.com/dockerdca)
 
+[Como criar aplicações modernas com containers Linux](https://www.redhat.com/pt-br/resources/building-modern-apps-with-containers-ebook)
+
 🎧 Music - Programming | Coding | Hacking
 -
 [Programming / Coding / Hacking music vol.16 (CONNECTION LOST)](https://youtu.be/l9nh1l8ZIJQ)

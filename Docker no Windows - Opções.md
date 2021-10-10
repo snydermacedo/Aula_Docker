@@ -32,7 +32,8 @@ Aqui continuaremos a usando o Virtual Box, mas não diretamente.
 
 Para instalação vou link da Aula do Caio Delgado: [Docker DCA 00 - Preparação da Máquina (Windows / Linux)](https://www.youtube.com/watch?v=U-GGoWq26C4&t=386s)
 
-Nativo - Usar um Distro Linux
+Nativo - Usar uma Distro Linux
+-
 !!! Aviso !!! Faça backup do seus Arquivos
 -
 

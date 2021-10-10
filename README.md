@@ -3,5 +3,5 @@
 Conteúdo da Aula de Docker
 
 - [ ]  Apresentação
-- [ ]  Install WSL2 and Docker
-- [ ]  Videos Tutoriais
+- [X]  Install WSL2 and Docker
+- [X]  Extra: Videos | PodCast | Livros | Music

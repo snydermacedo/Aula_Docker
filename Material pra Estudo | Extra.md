@@ -16,6 +16,8 @@ Caso queiram contribuir, fiquem a vontade 😁.
 
 [Docker: nivelando conhecimento](https://youtu.be/hCMcQfGb4cA)
 
+[Tutorial Definitivo de DOCKER para INICIANTES (Ubuntu)](https://www.youtube.com/watch?v=bsGkIKP1OZ4&t=2153s)
+
 🎙️ Podcast
 -
 [Kubicast](https://getup.io/kubicast)

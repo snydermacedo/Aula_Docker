@@ -26,6 +26,7 @@ Recomento o Mint XFCE devido a leveza, consume em média uns 500MB de memoria RA
 Para instalar o Docker neste cenario é bem mais facil basta abrir o terminal e digital:
 ```shell
 sudo apt install docker
+sudo usermod -aG docker
 ```
 
 Vagrant
@@ -55,8 +56,13 @@ Docker no Linux
 -
 
 Jeito fácil 😁 Automático
+
 Execute o comando abaixo
 ```shell
 curl -fsSL https://get.docker.com -o get-docker.sh
 sudo sh get-docker.sh
+sudo usermod -aG docker
 ```
+
+Ou siga a documentação da sua distro
+[Docker Instalação](https://docs.docker.com/engine/install/)

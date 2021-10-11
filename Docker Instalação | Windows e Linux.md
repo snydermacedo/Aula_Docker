@@ -1,3 +1,5 @@
+# Docker Instalação
+
 # Docker no Windows
 
 Pessoal desculpe pela informação equivocada, o Docker Deskop se tornou pago sim mas, o Docker Free se tornou o Docker Personal, abaixo a explicação do proprio site do Docker.
@@ -10,7 +12,8 @@ Abaixo vou deixar uns videos extra.
 
 [Link 01](https://pureinfotech.com/install-windows-subsystem-linux-2-windows-10/) | [Link 02](https://youtu.be/05YN8F8ajBc) | [Link 03](https://youtu.be/np_vyd7QlXk)
 
-# Outras opções
+Outras opções
+-
 
 Virtual Box
 -
@@ -32,8 +35,7 @@ Aqui continuaremos a usando o Virtual Box, mas não diretamente.
 
 Para instalação vou link da Aula do Caio Delgado: [Docker DCA 00 - Preparação da Máquina (Windows / Linux)](https://www.youtube.com/watch?v=U-GGoWq26C4&t=386s)
 
-Nativo - Usar uma Distro Linux
--
+# Linux - Instalação
 !!! Aviso !!! Faça backup do seus Arquivos
 -
 
@@ -48,3 +50,13 @@ Instalação com Dual Boot:
 Instalação Nativa - Sem Dual Boot:
 
 [VOCÊ CONSEGUE USAR LINUX? TUTORIAL DE FORMATAÇÃO! ](https://www.youtube.com/watch?v=WgJksOkfnTQ&t=0s) | O Grande Diolinux :)
+
+Docker no Linux
+-
+
+Jeito fácil 😁 Automático
+Execute o comando abaixo
+```shell
+curl -fsSL https://get.docker.com -o get-docker.sh
+sudo sh get-docker.sh
+```

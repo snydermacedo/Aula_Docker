@@ -2,6 +2,8 @@
 
 # Docker no Windows
 
+~~Pessoal uma notícia para quem usa Windows, o aplicativo Docker Desktop agora é pago, par contornar isso vamos o WSL2.~~
+
 Pessoal desculpe pela informação equivocada, o Docker Deskop se tornou pago sim mas, o Docker Free se tornou o Docker Personal, abaixo a explicação do proprio site do Docker.
 
 ![docker-personal](https://github.com/snydermacedo/Aula_Docker/blob/main/img/docker-personal.png)

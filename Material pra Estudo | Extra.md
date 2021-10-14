@@ -18,6 +18,8 @@ Caso queiram contribuir, fiquem a vontade 😁.
 
 [Tutorial Definitivo de DOCKER para INICIANTES (Ubuntu)](https://www.youtube.com/watch?v=bsGkIKP1OZ4&t=2153s)
 
+[Curso de Introdução ao Docker](https://youtube.com/playlist?list=PLXzx948cNtr8N5zLNJNVYrvIG6hk0Kxl-)
+
 🎙️ Podcast
 -
 [Kubicast](https://getup.io/kubicast)

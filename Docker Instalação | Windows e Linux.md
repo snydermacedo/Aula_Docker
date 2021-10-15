@@ -43,7 +43,7 @@ Aqui continuaremos usando o Virtual Box, mas não diretamente.
 Para instalação vou deixar o link da Aula do Caio Delgado: [Docker DCA 00 - Preparação da Máquina (Windows / Linux)](https://www.youtube.com/watch?v=U-GGoWq26C4&t=386s)
 
 # Linux - Instalação
-!!! Aviso !!! Faça backup do seus Arquivos
+!!! Aviso !!! Faça backup dos seus Arquivos
 -
 
 Aqui podemos instalar o Linux diretamente no seu PC ou Note, com ou sem Dual Boot.

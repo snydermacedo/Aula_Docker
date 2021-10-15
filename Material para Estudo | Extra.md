@@ -6,7 +6,7 @@ Caso queiram contribuir, fiquem a vontade 😁.
 
 📺 YouTube
 -
-[O MELHOR sistema operacional para programação com Fabio Akita](https://youtu.be/kkbFqCNgFlE) | Pessoal sei que não é o foco mas, explicação do Akita é perfeita.
+[O MELHOR sistema operacional para programação com Fabio Akita](https://youtu.be/kkbFqCNgFlE) | Pessoal, sei que não é o foco mas... A explicação do Akita é perfeita.
 
 [Containers // Dicionário do Programador](https://youtu.be/-pUZBovqRcU)
 

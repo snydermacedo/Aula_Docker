@@ -1,6 +1,6 @@
-Material pra Estudo
+Material para Estudo
 -
-Pessoal aqui vou postar um material extra, como livros, vídeo ...
+Pessoal, aqui vou postar um material extra, como livros, vídeo ...
 
 Caso queiram contribuir, fiquem a vontade 😁.
 

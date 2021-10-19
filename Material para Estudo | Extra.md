@@ -20,6 +20,8 @@ Caso queiram contribuir, fiquem a vontade 😁.
 
 [Curso de Introdução ao Docker](https://youtube.com/playlist?list=PLXzx948cNtr8N5zLNJNVYrvIG6hk0Kxl-)
 
+[Tudo o que você precisa saber para começar com Docker](https://youtu.be/RE31GWJGkwA)
+
 🎙️ Podcast
 -
 [Kubicast](https://getup.io/kubicast)
